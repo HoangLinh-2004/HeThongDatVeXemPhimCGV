@@ -1,10 +1,8 @@
 # 🎬 HỆ THỐNG ĐẶT VÉ XEM PHIM  
 *(Movie Ticket Booking System)*
 
-![Status](https://img.shields.io/badge/Status-In_Progress-blue)
-![Method](https://img.shields.io/badge/Method-Scrum-green)
-![Sprints](https://img.shields.io/badge/Sprints-2-orange)
-![Duration](https://img.shields.io/badge/Duration-29/10--19/12/2025-yellow)
+**Học phần:** Phân tích thiết kế hệ thống – Quản lý dự án phần mềm 
+**Giáo viên hướng dẫn:** TS. Nguyễn Tấn Thuận
 
 ---
 
@@ -25,8 +23,6 @@ chất lượng sản phẩm và khả năng mở rộng trong tương lai.
 - [Thông tin thành viên nhóm](#-thông-tin-thành-viên-nhóm)
 - [Kế hoạch quản lý dự án](#-kế-hoạch-quản-lý-dự-án)
 - [Bố cục báo cáo](#-bố-cục-báo-cáo)
-- [Quản lý phiên bản](#-quản-lý-phiên-bản)
-- [Quản lý rủi ro](#-quản-lý-rủi-ro)
 
 ---
 
@@ -88,17 +84,14 @@ e. Biểu đồ Đóng gói (Package Diagram)
 f. Biểu đồ Thành phần (Component Diagram)  
 g. Biểu đồ Triển khai (Deployment Diagram)  
 
----
-
-## 🛠️ Quản lý phiên bản
+### 7. Quản lý phiên bản
 
 - Sử dụng **GitHub** để quản lý mã nguồn và tài liệu  
 - Phân quyền rõ ràng cho từng thành viên trong nhóm  
 - Tuân thủ quy ước commit message và đặt tên nhánh  
 
----
 
-## ⚠️ Quản lý rủi ro
+### 8. Quản lý rủi ro
 
 - **Rủi ro kỹ thuật:** Lỗi hệ thống, tích hợp thanh toán  
 - **Rủi ro tiến độ:** Trễ deadline do phân bổ công việc chưa hợp lý  
@@ -106,4 +99,3 @@ g. Biểu đồ Triển khai (Deployment Diagram)
 
 ---
 
-📌 *Tài liệu được xây dựng phục vụ cho mục đích học tập và nghiên cứu.*
