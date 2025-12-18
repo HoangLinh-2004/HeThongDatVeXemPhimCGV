@@ -31,10 +31,10 @@ chất lượng sản phẩm và khả năng mở rộng trong tương lai.
 
 | STT | Họ và Tên | Vai trò |
 |----|-----------|---------|
-| 1 | Nguyễn Thị Hoài Linh | Product Owner |
-| 2 | Ngô Trần Khánh Phương | Scrum Master |
-| 3 | Trịnh Duy Huy | Team members |
-| 4 | Nguyễn Phúc Thuần | Team members |
+| **1** | **Nguyễn Thị Hoài Linh** | Product Owner |
+| **2** | **Ngô Trần Khánh Phương** | Scrum Master |
+| **3** | **Trịnh Duy Huy** | Team members |
+| **4** | **Nguyễn Phúc Thuần** | Team members |
 
 ---
 
@@ -42,11 +42,11 @@ chất lượng sản phẩm và khả năng mở rộng trong tương lai.
 
 | STT | Nhiệm vụ | Thời lượng | Ngày bắt đầu | Ngày kết thúc |
 |----|---------|-----------|--------------|---------------|
-| 1 | Giai đoạn Chuẩn bị | 2 ngày | 29/10/2025 | 31/10/2025 |
-| 2 | Giai đoạn Phát triển – Sprint 1 | 15 ngày | 01/11/2025 | 14/11/2025 |
-| 3 | Giai đoạn Phát triển – Sprint 2 | 15 ngày | 15/11/2025 | 30/11/2025 |
-| 4 | Giai đoạn Hoàn thiện & Kiểm thử | 15 ngày | 01/12/2025 | 15/12/2025 |
-| 5 | Giai đoạn Kết thúc & Bàn giao | 4 ngày | 16/12/2025 | 19/12/2025 |
+| **1** | **Giai đoạn Chuẩn bị** | 2 ngày | 29/10/2025 | 31/10/2025 |
+| **2** | **Giai đoạn Phát triển – Sprint 1** | 15 ngày | 01/11/2025 | 14/11/2025 |
+| **3** | **Giai đoạn Phát triển – Sprint 2** | 15 ngày | 15/11/2025 | 30/11/2025 |
+| **4** | **Giai đoạn Hoàn thiện & Kiểm thử** | 15 ngày | 01/12/2025 | 15/12/2025 |
+| **5** | **Giai đoạn Kết thúc & Bàn giao** | 4 ngày | 16/12/2025 | 19/12/2025 |
 
 ---
 
