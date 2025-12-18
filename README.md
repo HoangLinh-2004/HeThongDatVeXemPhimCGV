@@ -2,6 +2,7 @@
 *(Movie Ticket Booking System)*
 
 **Học phần:** Phân tích thiết kế hệ thống – Quản lý dự án phần mềm 
+
 **Giáo viên hướng dẫn:** TS. Nguyễn Tấn Thuận
 
 ---
@@ -76,13 +77,14 @@ chất lượng sản phẩm và khả năng mở rộng trong tương lai.
 - **Sprint 2:** Hoàn thiện chức năng, kiểm thử và tối ưu hệ thống  
 
 ### 6. Tài liệu kiến trúc hệ thống
-a. Biểu đồ Use Case (tổng quát, phân rã, đặc tả)  
-b. Biểu đồ Hoạt động (Activity Diagram)  
-c. Biểu đồ Trình tự (Sequence Diagram)  
-d. Biểu đồ Lớp (Class Diagram)  
-e. Biểu đồ Đóng gói (Package Diagram)  
-f. Biểu đồ Thành phần (Component Diagram)  
-g. Biểu đồ Triển khai (Deployment Diagram)  
+
+- *a. Biểu đồ Use Case (tổng quát, phân rã, đặc tả)*  
+- *b. Biểu đồ Hoạt động (Activity Diagram)*  
+- *c. Biểu đồ Trình tự (Sequence Diagram)*  
+- *d. Biểu đồ Lớp (Class Diagram)*  
+- *e. Biểu đồ Đóng gói (Package Diagram)*  
+- *f. Biểu đồ Thành phần (Component Diagram)*  
+- *g. Biểu đồ Triển khai (Deployment Diagram)*    
 
 ### 7. Quản lý phiên bản
 
